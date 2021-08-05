@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31220.234
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{856DBF39-BFEA-49F9-99FB-ABD9A5D9A367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brimborium.RequestHandler", "web\Brimborium.RequestHandler\Brimborium.RequestHandler.csproj", "{543789D8-69F8-497B-A360-78000D47BA6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543789D8-69F8-497B-A360-78000D47BA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543789D8-69F8-497B-A360-78000D47BA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543789D8-69F8-497B-A360-78000D47BA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543789D8-69F8-497B-A360-78000D47BA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{543789D8-69F8-497B-A360-78000D47BA6E} = {856DBF39-BFEA-49F9-99FB-ABD9A5D9A367}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D407384-853F-4BB3-BA72-D9C7E2F29027}
+	EndGlobalSection
+EndGlobal
